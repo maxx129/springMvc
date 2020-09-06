@@ -13,6 +13,8 @@ import java.util.List;
 @Entity
 public class User {
 
+//    New commit
+
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Integer id;
