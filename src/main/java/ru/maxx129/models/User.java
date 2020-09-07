@@ -14,6 +14,7 @@ import java.util.List;
 public class User {
 
 //    New commit
+//    Another commit
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
